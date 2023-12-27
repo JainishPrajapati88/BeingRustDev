@@ -16,6 +16,11 @@ Explore various Rust code examples covering fundamental concepts. Feel free to b
 
 These official resources offer comprehensive guidance, from beginner to advanced levels, providing a more in-depth understanding of Rust.
 
+### Good and straightforward tutorials
+
+- [Learn Rust Programming By Programiz](https://www.programiz.com/rust)
+- [Rust Tutorial by Tutorials point](https://www.tutorialspoint.com/rust/)
+  
 ## How to Use This Repository
 
 1. Clone the repository: `git clone https://github.com/JainishPrajapati88/BeingRustDev.git`
