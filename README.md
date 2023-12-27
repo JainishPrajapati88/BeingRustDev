@@ -18,7 +18,7 @@ These official resources offer comprehensive guidance, from beginner to advanced
 
 ## How to Use This Repository
 
-1. Clone the repository: `git clone https://github.com/JainishPrajapati88/rust_dev.git`
+1. Clone the repository: `git clone https://github.com/JainishPrajapati88/BeingRustDev.git`
 2. Explore the code examples in each directory.
 3. Refer to the official Rust documentation linked above for deeper insights.
 4. Experiment with the code, modify, and learn by doing!
