@@ -1,4 +1,4 @@
-# rust_dev Repository
+# BeingRustDev Repository
 
 Welcome to my BeingRustDev Repository! This collection features code snippets which I've created while learning Rust. It's aimed at helping beginners grasp the fundamentals of Rust programming.
 
