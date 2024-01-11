@@ -1,5 +1,6 @@
 # BeingRustDev Repository (Repo To Refresh Core Rust Concepts)
 
+## 🚧 This Rust Starter repo is currently not actively maintained, as the focus has shifted to a language that better aligns with current needs and objectives.
 Welcome to my BeingRustDev Repository! This collection features code snippets which I've created while learning Rust. It's aimed at helping beginners grasp the fundamentals of Rust programming.
 
 ## Code Examples
